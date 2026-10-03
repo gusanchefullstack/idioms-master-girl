@@ -1,0 +1,229 @@
+[
+  {
+    "target": "It was a piece of cake.",
+    "transcript": "It was a piece of cape.",
+    "problemWords": [
+      {
+        "word": "cake",
+        "type": "substituted",
+        "heard": "cape"
+      }
+    ]
+  },
+  {
+    "target": "Let's break the ice.",
+    "transcript": "Let's brake the eyes.",
+    "problemWords": [
+      {
+        "word": "ice",
+        "type": "substituted",
+        "heard": "eyes"
+      }
+    ]
+  },
+  {
+    "target": "I feel under the weather today.",
+    "transcript": "I feel under the water today.",
+    "problemWords": [
+      {
+        "word": "weather",
+        "type": "substituted",
+        "heard": "water"
+      }
+    ]
+  },
+  {
+    "target": "I have to hit the books.",
+    "transcript": "I have to hit the box.",
+    "problemWords": [
+      {
+        "word": "books",
+        "type": "substituted",
+        "heard": "box"
+      }
+    ]
+  },
+  {
+    "target": "Let's call it a day.",
+    "transcript": "Let's call it day.",
+    "problemWords": [
+      {
+        "word": "a",
+        "type": "missing"
+      }
+    ]
+  },
+  {
+    "target": "Rent costs an arm and a leg.",
+    "transcript": "Rent costs an arm and a lake.",
+    "problemWords": [
+      {
+        "word": "leg",
+        "type": "substituted",
+        "heard": "lake"
+      }
+    ]
+  },
+  {
+    "target": "She was on cloud nine.",
+    "transcript": "She was on cloud nine.",
+    "problemWords": [
+      {
+        "word": "cloud",
+        "type": "unclear",
+        "probability": 0.41
+      }
+    ]
+  },
+  {
+    "target": "I eat fast food once in a blue moon.",
+    "transcript": "I eat fast food once in a blue men.",
+    "problemWords": [
+      {
+        "word": "moon",
+        "type": "substituted",
+        "heard": "men"
+      }
+    ]
+  },
+  {
+    "target": "He got cold feet.",
+    "transcript": "He got cold feed.",
+    "problemWords": [
+      {
+        "word": "feet",
+        "type": "substituted",
+        "heard": "feed"
+      }
+    ]
+  },
+  {
+    "target": "Time flies when you are having fun.",
+    "transcript": "Time plies when you having fun.",
+    "problemWords": [
+      {
+        "word": "flies",
+        "type": "substituted",
+        "heard": "plies"
+      },
+      {
+        "word": "are",
+        "type": "missing"
+      }
+    ]
+  },
+  {
+    "target": "Please keep an eye on my bag.",
+    "transcript": "Please keep an eye on my back.",
+    "problemWords": [
+      {
+        "word": "bag",
+        "type": "substituted",
+        "heard": "back"
+      }
+    ]
+  },
+  {
+    "target": "Hang in there.",
+    "transcript": "Hang in there.",
+    "problemWords": [
+      {
+        "word": "there",
+        "type": "unclear",
+        "probability": 0.38
+      }
+    ]
+  },
+  {
+    "target": "We are in the same boat.",
+    "transcript": "We are in the same vote.",
+    "problemWords": [
+      {
+        "word": "boat",
+        "type": "substituted",
+        "heard": "vote"
+      }
+    ]
+  },
+  {
+    "target": "I'm getting the hang of it.",
+    "transcript": "I'm getting the hand of it.",
+    "problemWords": [
+      {
+        "word": "hang",
+        "type": "substituted",
+        "heard": "hand"
+      }
+    ]
+  },
+  {
+    "target": "Our plans are up in the air.",
+    "transcript": "Our plans are up in the air.",
+    "problemWords": [
+      {
+        "word": "plans",
+        "type": "unclear",
+        "probability": 0.52
+      },
+      {
+        "word": "air",
+        "type": "unclear",
+        "probability": 0.44
+      }
+    ]
+  },
+  {
+    "target": "Don't spill the beans.",
+    "transcript": "Don't spill the bins.",
+    "problemWords": [
+      {
+        "word": "beans",
+        "type": "substituted",
+        "heard": "bins"
+      }
+    ]
+  },
+  {
+    "target": "The ball is in your court.",
+    "transcript": "The ball is in your coat.",
+    "problemWords": [
+      {
+        "word": "court",
+        "type": "substituted",
+        "heard": "coat"
+      }
+    ]
+  },
+  {
+    "target": "Break a leg tonight.",
+    "transcript": "Break a lag tonight.",
+    "problemWords": [
+      {
+        "word": "leg",
+        "type": "substituted",
+        "heard": "lag"
+      }
+    ]
+  },
+  {
+    "target": "Sit tight, the doctor is coming.",
+    "transcript": "Sit tight doctor is coming.",
+    "problemWords": [
+      {
+        "word": "the",
+        "type": "missing"
+      }
+    ]
+  },
+  {
+    "target": "This burrito is out of this world.",
+    "transcript": "This burrito is out of this word.",
+    "problemWords": [
+      {
+        "word": "world",
+        "type": "substituted",
+        "heard": "word"
+      }
+    ]
+  }
+]

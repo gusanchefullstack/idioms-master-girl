@@ -1,0 +1,77 @@
+[
+  {
+    "idiom": "piece-of-cake",
+    "sentence": "The English test was a piece of cake for me.",
+    "expectedFix": null
+  },
+  {
+    "idiom": "piece-of-cake",
+    "sentence": "Yesterday the test is a piece of cake.",
+    "expectedFix": "was"
+  },
+  {
+    "idiom": "piece-of-cake",
+    "sentence": "Cooking dinner are a piece of cake for my husband.",
+    "expectedFix": "is"
+  },
+  {
+    "idiom": "break-the-ice",
+    "sentence": "I tell a joke to break the ice yesterday.",
+    "expectedFix": "told"
+  },
+  {
+    "idiom": "break-the-ice",
+    "sentence": "She broke the ice with a funny story.",
+    "expectedFix": null
+  },
+  {
+    "idiom": "under-the-weather",
+    "sentence": "He is under the weather, so he stay home.",
+    "expectedFix": "stays"
+  },
+  {
+    "idiom": "hit-the-books",
+    "sentence": "I need hit the books tonight.",
+    "expectedFix": "need to"
+  },
+  {
+    "idiom": "call-it-a-day",
+    "sentence": "We worked ten hours and then we call it a day.",
+    "expectedFix": "called"
+  },
+  {
+    "idiom": "cost-an-arm-and-a-leg",
+    "sentence": "My new phone costed an arm and a leg.",
+    "expectedFix": "cost"
+  },
+  {
+    "idiom": "on-cloud-nine",
+    "sentence": "She were on cloud nine after the news.",
+    "expectedFix": "was"
+  },
+  {
+    "idiom": "feel-blue",
+    "sentence": "I feel blue when it rains.",
+    "expectedFix": null
+  },
+  {
+    "idiom": "sleep-on-it",
+    "sentence": "Let me to sleep on it.",
+    "expectedFix": "Let me sleep"
+  },
+  {
+    "idiom": "hang-in-there",
+    "sentence": "My mom always say hang in there.",
+    "expectedFix": "says"
+  },
+  {
+    "idiom": "in-the-same-boat",
+    "sentence": "All the new students is in the same boat.",
+    "expectedFix": "are"
+  },
+  {
+    "idiom": "take-it-easy",
+    "sentence": "Yesterday I take it easy all day.",
+    "expectedFix": "took"
+  }
+]

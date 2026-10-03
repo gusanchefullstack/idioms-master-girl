@@ -1,0 +1,2005 @@
+{
+  "version": "1.0.0",
+  "idioms": [
+    {
+      "id": "piece-of-cake",
+      "phrase": "piece of cake",
+      "spoken": "a piece of cake",
+      "variants": [
+        "\\bpieces? of cake\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "very easy to do",
+      "whenToUse": "When something was easy for you, like a test, a task or a recipe.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about real cake; it means \"very easy\".",
+      "fallbackExamples": [
+        "The math test was a piece of cake.",
+        "For Ana, cooking rice is a piece of cake.",
+        "Don't worry, the bus app is a piece of cake."
+      ]
+    },
+    {
+      "id": "break-the-ice",
+      "phrase": "break the ice",
+      "spoken": "break the ice",
+      "variants": [
+        "\\bbr(?:eak|eaks|oke|oken|eaking)\\s+the\\s+ice\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to make people feel relaxed when they first meet",
+      "whenToUse": "At parties, first days or meetings when nobody is talking yet.",
+      "register": "informal, OK at work",
+      "region": "US and UK",
+      "literalNote": "Nobody breaks real ice; it means ending an awkward silence.",
+      "fallbackExamples": [
+        "I told a funny story to break the ice.",
+        "Games help kids break the ice on the first day.",
+        "She broke the ice by asking about my dog."
+      ]
+    },
+    {
+      "id": "under-the-weather",
+      "phrase": "under the weather",
+      "spoken": "under the weather",
+      "variants": [
+        "\\bunder\\s+the\\s+weather\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "a little sick",
+      "whenToUse": "When you feel a bit sick, like a cold or a headache.",
+      "register": "informal, polite",
+      "region": "US and UK",
+      "literalNote": "It is not about rain or sun; it means you feel a little ill.",
+      "fallbackExamples": [
+        "I feel under the weather, so I'm staying home.",
+        "My boss was under the weather on Monday.",
+        "You look under the weather. Do you want some tea?"
+      ]
+    },
+    {
+      "id": "hit-the-books",
+      "phrase": "hit the books",
+      "spoken": "hit the books",
+      "variants": [
+        "\\bh(?:it|its|itting)\\s+the\\s+books\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to study hard",
+      "whenToUse": "When you need to study, especially before a test.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "You never hit a real book; it means \"start studying\".",
+      "fallbackExamples": [
+        "I can't go out tonight; I have to hit the books.",
+        "She hits the books every evening after work.",
+        "We hit the books before our English exam."
+      ]
+    },
+    {
+      "id": "call-it-a-day",
+      "phrase": "call it a day",
+      "spoken": "call it a day",
+      "variants": [
+        "\\bcall(?:s|ed|ing)?\\s+it\\s+a\\s+day\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to stop working for today",
+      "whenToUse": "At the end of work or a long task when you are tired.",
+      "register": "informal, OK at work",
+      "region": "US and UK",
+      "literalNote": "You are not naming the day; you are deciding to stop.",
+      "fallbackExamples": [
+        "It's six o'clock. Let's call it a day.",
+        "We painted two rooms and then called it a day.",
+        "I'm so tired, I'm calling it a day."
+      ]
+    },
+    {
+      "id": "cost-an-arm-and-a-leg",
+      "phrase": "cost an arm and a leg",
+      "spoken": "cost an arm and a leg",
+      "variants": [
+        "\\bcost(?:s|ing)?\\s+an\\s+arm\\s+and\\s+a\\s+leg\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to be very expensive",
+      "whenToUse": "When you talk about prices that are much too high.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody pays with body parts; it means \"very expensive\".",
+      "fallbackExamples": [
+        "Rent in San Francisco costs an arm and a leg.",
+        "That new phone cost an arm and a leg.",
+        "Eating out every day costs an arm and a leg."
+      ]
+    },
+    {
+      "id": "on-cloud-nine",
+      "phrase": "on cloud nine",
+      "spoken": "on cloud nine",
+      "variants": [
+        "\\bon\\s+cloud\\s+nine\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "very, very happy",
+      "whenToUse": "When you feel extremely happy because of good news.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You are not in the sky; it means very happy.",
+      "fallbackExamples": [
+        "She was on cloud nine after her job interview.",
+        "I'm on cloud nine – I passed my test!",
+        "They were on cloud nine at their wedding."
+      ]
+    },
+    {
+      "id": "once-in-a-blue-moon",
+      "phrase": "once in a blue moon",
+      "spoken": "once in a blue moon",
+      "variants": [
+        "\\bonce\\s+in\\s+a\\s+blue\\s+moon\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "very rarely, almost never",
+      "whenToUse": "When you do something not often at all.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "The moon is not blue; it means \"very rarely\".",
+      "fallbackExamples": [
+        "I eat fast food once in a blue moon.",
+        "We go to the beach once in a blue moon.",
+        "He calls his brother once in a blue moon."
+      ]
+    },
+    {
+      "id": "get-cold-feet",
+      "phrase": "get cold feet",
+      "spoken": "get cold feet",
+      "variants": [
+        "\\b(?:get|gets|got|gotten|getting|have|has|had)\\s+cold\\s+feet\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to feel nervous and almost not do something",
+      "whenToUse": "Before a big event like a wedding, a trip or a new job.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Your feet are not really cold; you feel afraid to continue.",
+      "fallbackExamples": [
+        "He got cold feet before his speech.",
+        "I almost got cold feet before the interview.",
+        "Don't get cold feet – you will do great!"
+      ]
+    },
+    {
+      "id": "time-flies",
+      "phrase": "time flies",
+      "spoken": "time flies",
+      "variants": [
+        "\\btime\\s+(?:flies|flew|is\\s+flying)\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "time passes very quickly",
+      "whenToUse": "When you are surprised how fast time went by.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Time has no wings; it just feels very fast.",
+      "fallbackExamples": [
+        "Time flies when you are having fun.",
+        "Wow, it's already October. Time flies!",
+        "Time flew during our trip to Napa."
+      ]
+    },
+    {
+      "id": "let-the-cat-out-of-the-bag",
+      "phrase": "let the cat out of the bag",
+      "spoken": "let the cat out of the bag",
+      "variants": [
+        "\\blet(?:s|ting)?\\s+the\\s+cat\\s+out\\s+of\\s+the\\s+bag\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to tell a secret by mistake",
+      "whenToUse": "When someone tells a surprise or secret too early.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no cat; it means a secret was told.",
+      "fallbackExamples": [
+        "My son let the cat out of the bag about the party.",
+        "Please don't let the cat out of the bag!",
+        "Who let the cat out of the bag about the gift?"
+      ]
+    },
+    {
+      "id": "in-hot-water",
+      "phrase": "in hot water",
+      "spoken": "in hot water",
+      "variants": [
+        "\\bin\\s+hot\\s+water\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "in trouble",
+      "whenToUse": "When someone has a problem because they did something wrong.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody is in a bath; it means in trouble.",
+      "fallbackExamples": [
+        "He is in hot water with his boss.",
+        "I was in hot water for being late again.",
+        "You'll be in hot water if you forget her birthday."
+      ]
+    },
+    {
+      "id": "feel-blue",
+      "phrase": "feel blue",
+      "spoken": "feel blue",
+      "variants": [
+        "\\b(?:feel|feels|felt|feeling)\\s+(?:a\\s+(?:little|bit)\\s+)?blue\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to feel sad",
+      "whenToUse": "When you feel a little sad or lonely.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Your skin is not blue; \"blue\" here means sad.",
+      "fallbackExamples": [
+        "I feel blue when it rains all week.",
+        "She felt blue after her friend moved away.",
+        "Call me if you're feeling blue."
+      ]
+    },
+    {
+      "id": "sleep-on-it",
+      "phrase": "sleep on it",
+      "spoken": "sleep on it",
+      "variants": [
+        "\\bsl(?:eep|eeps|ept|eeping)\\s+on\\s+it\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to wait until tomorrow to decide",
+      "whenToUse": "When you need more time before making a decision.",
+      "register": "neutral, OK at work",
+      "region": "US and UK",
+      "literalNote": "You do not sleep on top of something; you think about it overnight.",
+      "fallbackExamples": [
+        "I'm not sure about the apartment. Let me sleep on it.",
+        "She slept on it and said yes the next day.",
+        "Don't decide now – sleep on it."
+      ]
+    },
+    {
+      "id": "make-ends-meet",
+      "phrase": "make ends meet",
+      "spoken": "make ends meet",
+      "variants": [
+        "\\bma(?:ke|kes|de|king)\\s+ends\\s+meet\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to have just enough money to live",
+      "whenToUse": "When you talk about paying bills with little money.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "No real ends touch; it means your money is just enough.",
+      "fallbackExamples": [
+        "Many families work two jobs to make ends meet.",
+        "It's hard to make ends meet in a big city.",
+        "We cook at home to make ends meet."
+      ]
+    },
+    {
+      "id": "a-dime-a-dozen",
+      "phrase": "a dime a dozen",
+      "spoken": "a dime a dozen",
+      "variants": [
+        "\\ba\\s+dime\\s+a\\s+dozen\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "very common and easy to find",
+      "whenToUse": "When something is everywhere and not special.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "It is not about real coins; it means \"very common\".",
+      "fallbackExamples": [
+        "Coffee shops are a dime a dozen in this city.",
+        "Cheap umbrellas are a dime a dozen here.",
+        "Good ideas are a dime a dozen; doing them is hard."
+      ]
+    },
+    {
+      "id": "by-heart",
+      "phrase": "learn by heart",
+      "spoken": "learn it by heart",
+      "variants": [
+        "\\b(?:learn|learns|learned|learnt|learning|know|knows|knew)\\s+(?:\\w+\\s+){0,3}by\\s+heart\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to remember something perfectly",
+      "whenToUse": "When you memorize words, songs or numbers completely.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about your real heart; it means from memory.",
+      "fallbackExamples": [
+        "I learned the song by heart.",
+        "She knows her phone number by heart now.",
+        "Try to learn these three idioms by heart."
+      ]
+    },
+    {
+      "id": "on-the-same-page",
+      "phrase": "on the same page",
+      "spoken": "on the same page",
+      "variants": [
+        "\\bon\\s+the\\s+same\\s+page\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to agree or understand things the same way",
+      "whenToUse": "At work or at home when people agree on a plan.",
+      "register": "neutral, common at work",
+      "region": "mostly US",
+      "literalNote": "There is no book; it means you agree.",
+      "fallbackExamples": [
+        "Let's talk so we are on the same page.",
+        "My husband and I are on the same page about money.",
+        "Is everyone on the same page about Friday?"
+      ]
+    },
+    {
+      "id": "keep-an-eye-on",
+      "phrase": "keep an eye on",
+      "spoken": "keep an eye on it",
+      "variants": [
+        "\\bk(?:eep|eeps|ept|eeping)\\s+an\\s+eye\\s+on\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to watch something or someone carefully",
+      "whenToUse": "When you ask someone to watch a bag, a child or a pot.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "You do not give your eye away; you watch carefully.",
+      "fallbackExamples": [
+        "Can you keep an eye on my bag?",
+        "I kept an eye on the soup while she called.",
+        "Keep an eye on the kids at the park."
+      ]
+    },
+    {
+      "id": "hang-in-there",
+      "phrase": "hang in there",
+      "spoken": "hang in there",
+      "variants": [
+        "\\bhang(?:s|ing)?\\s+in\\s+there\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "don't give up; keep trying",
+      "whenToUse": "To support someone who is having a hard time.",
+      "register": "informal, kind",
+      "region": "mostly US",
+      "literalNote": "Nobody is hanging; it means \"be strong, keep going\".",
+      "fallbackExamples": [
+        "Hang in there – the week is almost over!",
+        "My friend told me to hang in there.",
+        "English is hard, but hang in there."
+      ]
+    },
+    {
+      "id": "no-big-deal",
+      "phrase": "no big deal",
+      "spoken": "no big deal",
+      "variants": [
+        "\\b(?:no|not\\s+a)\\s+big\\s+deal\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "not important or not a problem",
+      "whenToUse": "When someone says sorry for something small.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no business deal; it means \"not important\".",
+      "fallbackExamples": [
+        "You forgot the milk? No big deal.",
+        "It's no big deal if you are five minutes late.",
+        "Missing the bus was no big deal."
+      ]
+    },
+    {
+      "id": "in-the-same-boat",
+      "phrase": "in the same boat",
+      "spoken": "in the same boat",
+      "variants": [
+        "\\bin\\s+the\\s+same\\s+boat\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "in the same difficult situation as others",
+      "whenToUse": "When other people have the same problem as you.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no real boat; you share the same problem.",
+      "fallbackExamples": [
+        "We are all new here, so we're in the same boat.",
+        "Don't worry, I'm in the same boat.",
+        "All the students were in the same boat before the test."
+      ]
+    },
+    {
+      "id": "get-the-hang-of",
+      "phrase": "get the hang of",
+      "spoken": "get the hang of it",
+      "variants": [
+        "\\b(?:get|gets|got|gotten|getting)\\s+the\\s+hang\\s+of\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to learn how to do something",
+      "whenToUse": "When something new starts to feel easier.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nothing is hanging; it means you learn how to do it.",
+      "fallbackExamples": [
+        "I'm finally getting the hang of the subway.",
+        "She got the hang of the new phone quickly.",
+        "You'll get the hang of it soon."
+      ]
+    },
+    {
+      "id": "take-it-easy",
+      "phrase": "take it easy",
+      "spoken": "take it easy",
+      "variants": [
+        "\\bt(?:ake|akes|ook|aken|aking)\\s+it\\s+easy\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to relax and not work too hard",
+      "whenToUse": "When you tell someone to rest or calm down.",
+      "register": "informal, friendly",
+      "region": "US and UK",
+      "literalNote": "You do not take anything; it means relax.",
+      "fallbackExamples": [
+        "It's Sunday, so I'm taking it easy.",
+        "Take it easy after your long trip.",
+        "The doctor told him to take it easy."
+      ]
+    },
+    {
+      "id": "up-in-the-air",
+      "phrase": "up in the air",
+      "spoken": "up in the air",
+      "variants": [
+        "\\bup\\s+in\\s+the\\s+air\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "not decided yet",
+      "whenToUse": "When plans are not certain or final.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nothing is flying; it means not decided.",
+      "fallbackExamples": [
+        "Our vacation plans are still up in the air.",
+        "The date of the party is up in the air.",
+        "My new schedule is up in the air."
+      ]
+    },
+    {
+      "id": "a-piece-of-my-mind",
+      "phrase": "give someone a piece of my mind",
+      "spoken": "give him a piece of my mind",
+      "variants": [
+        "\\bg(?:ive|ives|ave|iven|iving)\\s+(?:\\w+\\s+){1,2}a\\s+piece\\s+of\\s+(?:my|your|his|her|our|their)\\s+mind\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to tell someone you are angry with them",
+      "whenToUse": "When someone did something bad and you want to speak strongly.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You do not give away part of your brain; you say angry words.",
+      "fallbackExamples": [
+        "I gave him a piece of my mind about the noise.",
+        "She gave the waiter a piece of her mind.",
+        "I'm going to give them a piece of my mind."
+      ]
+    },
+    {
+      "id": "better-late-than-never",
+      "phrase": "better late than never",
+      "spoken": "better late than never",
+      "variants": [
+        "\\bbetter\\s+late\\s+than\\s+never\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "it is good that something happened, even if late",
+      "whenToUse": "When someone arrives or does something later than expected.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "A common saying; it is kind, not angry.",
+      "fallbackExamples": [
+        "You finished the project? Better late than never!",
+        "He came at nine – better late than never.",
+        "I started learning English at 40. Better late than never."
+      ]
+    },
+    {
+      "id": "easier-said-than-done",
+      "phrase": "easier said than done",
+      "spoken": "easier said than done",
+      "variants": [
+        "\\beasier\\s+said\\s+than\\s+done\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "it sounds easy but is hard to do",
+      "whenToUse": "When someone gives advice that is hard to follow.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "A common saying about advice that is hard in real life.",
+      "fallbackExamples": [
+        "Saving money is easier said than done.",
+        "\"Just relax!\" Easier said than done.",
+        "Waking up at five is easier said than done."
+      ]
+    },
+    {
+      "id": "go-the-extra-mile",
+      "phrase": "go the extra mile",
+      "spoken": "go the extra mile",
+      "variants": [
+        "\\b(?:go|goes|went|gone|going)\\s+the\\s+extra\\s+mile\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to do more than people expect",
+      "whenToUse": "When someone works extra hard or is extra kind.",
+      "register": "neutral, common at work",
+      "region": "US and UK",
+      "literalNote": "Nobody walks a real mile; it means doing extra.",
+      "fallbackExamples": [
+        "Our teacher always goes the extra mile.",
+        "She went the extra mile to help me move.",
+        "Good nurses go the extra mile for patients."
+      ]
+    },
+    {
+      "id": "its-raining-cats-and-dogs",
+      "phrase": "it's raining cats and dogs",
+      "spoken": "it's raining cats and dogs",
+      "variants": [
+        "\\brain(?:s|ed|ing)?\\s+cats\\s+and\\s+dogs\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "it is raining very hard",
+      "whenToUse": "When the rain is very heavy.",
+      "register": "informal, a bit old-fashioned",
+      "region": "US and UK",
+      "literalNote": "No animals fall from the sky; it means heavy rain.",
+      "fallbackExamples": [
+        "Take an umbrella, it's raining cats and dogs.",
+        "It rained cats and dogs all night.",
+        "We stayed home because it was raining cats and dogs."
+      ]
+    },
+    {
+      "id": "second-nature",
+      "phrase": "second nature",
+      "spoken": "second nature",
+      "variants": [
+        "\\bsecond\\s+nature\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "something you do easily without thinking",
+      "whenToUse": "When a skill becomes automatic after a lot of practice.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about nature outside; it means automatic.",
+      "fallbackExamples": [
+        "Riding a bike is second nature to her.",
+        "After a year, speaking English became second nature.",
+        "Cooking pasta is second nature for my husband."
+      ]
+    },
+    {
+      "id": "break-a-leg",
+      "phrase": "break a leg",
+      "spoken": "break a leg",
+      "variants": [
+        "\\bbreak\\s+a\\s+leg\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "good luck",
+      "whenToUse": "Before a show, a test, an interview or a big moment.",
+      "register": "informal, friendly",
+      "region": "US and UK",
+      "literalNote": "You never want a real broken leg; it is a wish for luck.",
+      "fallbackExamples": [
+        "Break a leg at your interview tomorrow!",
+        "My friend said \"break a leg\" before my test.",
+        "Break a leg tonight – you will be great."
+      ]
+    },
+    {
+      "id": "cut-corners",
+      "phrase": "cut corners",
+      "spoken": "cut corners",
+      "variants": [
+        "\\bcut(?:s|ting)?\\s+corners\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to do something cheaply or quickly, not well",
+      "whenToUse": "When someone saves time or money and the quality is bad.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "You do not cut real corners; it means poor work.",
+      "fallbackExamples": [
+        "Don't cut corners when you clean the kitchen.",
+        "The builders cut corners, and now the roof leaks.",
+        "We can't cut corners on safety."
+      ]
+    },
+    {
+      "id": "the-last-straw",
+      "phrase": "the last straw",
+      "spoken": "the last straw",
+      "variants": [
+        "\\bthe\\s+last\\s+straw\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "the final problem that makes you lose patience",
+      "whenToUse": "When many small problems happen and one more is too much.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about a drinking straw; it is \"one problem too many\".",
+      "fallbackExamples": [
+        "The broken heater was the last straw, so we moved.",
+        "His joke was the last straw for her.",
+        "When the bus didn't come, that was the last straw."
+      ]
+    },
+    {
+      "id": "when-pigs-fly",
+      "phrase": "when pigs fly",
+      "spoken": "when pigs fly",
+      "variants": [
+        "\\bwhen\\s+pigs\\s+fly\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "never; it will never happen",
+      "whenToUse": "When you think something is impossible.",
+      "register": "informal, joking",
+      "region": "mostly US",
+      "literalNote": "Pigs cannot fly; that is the joke.",
+      "fallbackExamples": [
+        "He will clean his room when pigs fly.",
+        "\"Will rent go down?\" \"Sure, when pigs fly.\"",
+        "My brother will wake up early when pigs fly."
+      ]
+    },
+    {
+      "id": "pull-someones-leg",
+      "phrase": "pull someone's leg",
+      "spoken": "pull your leg",
+      "variants": [
+        "\\bpull(?:s|ed|ing)?\\s+\\w+(?:'s)?\\s+leg\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to joke with someone; to tease",
+      "whenToUse": "When you say something untrue as a joke.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody touches a leg; it means joking.",
+      "fallbackExamples": [
+        "Relax, I'm just pulling your leg.",
+        "Are you pulling my leg?",
+        "He pulled her leg about the \"free\" pizza."
+      ]
+    },
+    {
+      "id": "in-a-nutshell",
+      "phrase": "in a nutshell",
+      "spoken": "in a nutshell",
+      "variants": [
+        "\\bin\\s+a\\s+nutshell\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "in a few words; briefly",
+      "whenToUse": "When you explain something short and simple.",
+      "register": "neutral, OK at work",
+      "region": "US and UK",
+      "literalNote": "There is no nut; it means \"very briefly\".",
+      "fallbackExamples": [
+        "In a nutshell, the meeting went well.",
+        "In a nutshell, I love my new job.",
+        "Can you tell me the story in a nutshell?"
+      ]
+    },
+    {
+      "id": "out-of-the-blue",
+      "phrase": "out of the blue",
+      "spoken": "out of the blue",
+      "variants": [
+        "\\bout\\s+of\\s+the\\s+blue\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "suddenly and unexpectedly",
+      "whenToUse": "When something happens with no warning.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about the sky; it means \"surprisingly\".",
+      "fallbackExamples": [
+        "My old friend called me out of the blue.",
+        "Out of the blue, it started to hail.",
+        "The job offer came out of the blue."
+      ]
+    },
+    {
+      "id": "the-ball-is-in-your-court",
+      "phrase": "the ball is in your court",
+      "spoken": "the ball is in your court",
+      "variants": [
+        "\\bthe\\s+ball\\s+is\\s+in\\s+(?:your|my|his|her|our|their)\\s+court\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "it is your turn to decide or act",
+      "whenToUse": "When you have done your part and now the other person must act.",
+      "register": "neutral, OK at work",
+      "region": "US and UK",
+      "literalNote": "Not about tennis; it means \"now you decide\".",
+      "fallbackExamples": [
+        "I sent the email. The ball is in your court now.",
+        "She made an offer, so the ball is in his court.",
+        "The ball is in their court after our interview."
+      ]
+    },
+    {
+      "id": "spill-the-beans",
+      "phrase": "spill the beans",
+      "spoken": "spill the beans",
+      "variants": [
+        "\\bspill(?:s|ed|ing)?\\s+the\\s+beans\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to tell a secret",
+      "whenToUse": "When someone tells information that was secret.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "No beans fall; it means telling a secret.",
+      "fallbackExamples": [
+        "Come on, spill the beans! Who is your date?",
+        "She spilled the beans about the surprise party.",
+        "Don't spill the beans to Mom."
+      ]
+    },
+    {
+      "id": "see-eye-to-eye",
+      "phrase": "see eye to eye",
+      "spoken": "see eye to eye",
+      "variants": [
+        "\\b(?:see|sees|saw|seen|seeing)\\s+eye\\s+to\\s+eye\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to agree with someone",
+      "whenToUse": "When two people agree, or often in the negative: they don't agree.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about looking; it means agreeing.",
+      "fallbackExamples": [
+        "My sister and I don't see eye to eye on politics.",
+        "We finally saw eye to eye about the trip.",
+        "They rarely see eye to eye at work."
+      ]
+    },
+    {
+      "id": "a-blessing-in-disguise",
+      "phrase": "a blessing in disguise",
+      "spoken": "a blessing in disguise",
+      "variants": [
+        "\\ba\\s+blessing\\s+in\\s+disguise\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "something bad that later turns out good",
+      "whenToUse": "When a problem leads to something good.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "A common saying; the good thing was \"hidden\".",
+      "fallbackExamples": [
+        "Losing that job was a blessing in disguise.",
+        "The rain was a blessing in disguise – we found a great cafe.",
+        "Missing the flight was a blessing in disguise."
+      ]
+    },
+    {
+      "id": "bite-off-more-than-you-can-chew",
+      "phrase": "bite off more than you can chew",
+      "spoken": "bite off more than I can chew",
+      "variants": [
+        "\\b(?:bite|bites|bit|bitten|biting)\\s+off\\s+more\\s+than\\s+\\w+\\s+c(?:an|ould)\\s+chew\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to try to do too much",
+      "whenToUse": "When you take too many tasks and can't finish them.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about food; it means \"too much work\".",
+      "fallbackExamples": [
+        "I bit off more than I could chew this week.",
+        "Don't bite off more than you can chew.",
+        "She bit off more than she could chew with three classes."
+      ]
+    },
+    {
+      "id": "get-out-of-hand",
+      "phrase": "get out of hand",
+      "spoken": "get out of hand",
+      "variants": [
+        "\\b(?:get|gets|got|gotten|getting)\\s+out\\s+of\\s+hand\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to become hard to control",
+      "whenToUse": "When a situation becomes too big or too wild.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "Nothing leaves your hand; it means losing control.",
+      "fallbackExamples": [
+        "The party got out of hand after midnight.",
+        "Things got out of hand at the meeting.",
+        "Stop the game before it gets out of hand."
+      ]
+    },
+    {
+      "id": "on-the-fence",
+      "phrase": "on the fence",
+      "spoken": "on the fence",
+      "variants": [
+        "\\bon\\s+the\\s+fence\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "not able to decide",
+      "whenToUse": "When you can't choose between two options.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "Nobody sits on a real fence; it means undecided.",
+      "fallbackExamples": [
+        "I'm on the fence about moving to Oakland.",
+        "She is still on the fence about the job.",
+        "We were on the fence, but we bought the car."
+      ]
+    },
+    {
+      "id": "like-the-back-of-my-hand",
+      "phrase": "know like the back of my hand",
+      "spoken": "know it like the back of my hand",
+      "variants": [
+        "\\b(?:know|knows|knew|known|knowing)\\s+(?:\\w+\\s+){1,4}like\\s+the\\s+back\\s+of\\s+(?:my|your|his|her|our|their)\\s+hand\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to know something very, very well",
+      "whenToUse": "When you know a place or a thing perfectly.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about your hand; it means \"very well\".",
+      "fallbackExamples": [
+        "I know this neighborhood like the back of my hand.",
+        "He knows the bus routes like the back of his hand.",
+        "She knows the menu like the back of her hand."
+      ]
+    },
+    {
+      "id": "the-best-of-both-worlds",
+      "phrase": "the best of both worlds",
+      "spoken": "the best of both worlds",
+      "variants": [
+        "\\bthe\\s+best\\s+of\\s+both\\s+worlds\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "the good parts of two different things",
+      "whenToUse": "When you can enjoy two good things at the same time.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about planets; it means two good things.",
+      "fallbackExamples": [
+        "Working from home two days is the best of both worlds.",
+        "Living near the city and the beach is the best of both worlds.",
+        "With a part-time job, she has the best of both worlds."
+      ]
+    },
+    {
+      "id": "a-long-shot",
+      "phrase": "a long shot",
+      "spoken": "a long shot",
+      "variants": [
+        "\\ba\\s+long\\s+shot\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "something that probably will not happen",
+      "whenToUse": "When the chance of success is small, but you try.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about shooting; it means a small chance.",
+      "fallbackExamples": [
+        "It's a long shot, but I applied for the job.",
+        "Winning the lottery is a long shot.",
+        "Getting tickets today is a long shot."
+      ]
+    },
+    {
+      "id": "lend-a-hand",
+      "phrase": "lend a hand",
+      "spoken": "lend a hand",
+      "variants": [
+        "\\b(?:lend|lends|lent|lending)\\s+(?:\\w+\\s+)?a\\s+hand\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to help",
+      "whenToUse": "When you offer or ask for help with a task.",
+      "register": "neutral, friendly",
+      "region": "US and UK",
+      "literalNote": "You do not give your hand away; you help.",
+      "fallbackExamples": [
+        "Can you lend me a hand with these boxes?",
+        "My neighbor lent a hand when my car broke.",
+        "I'm happy to lend a hand at the school event."
+      ]
+    },
+    {
+      "id": "sit-tight",
+      "phrase": "sit tight",
+      "spoken": "sit tight",
+      "variants": [
+        "\\bs(?:it|its|at|itting)\\s+tight\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to wait patiently and not do anything yet",
+      "whenToUse": "When someone must wait for news or for help.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You do not need to sit tightly; it means wait.",
+      "fallbackExamples": [
+        "Sit tight, the doctor will see you soon.",
+        "We sat tight until the rain stopped.",
+        "Just sit tight – I'll be there in ten minutes."
+      ]
+    },
+    {
+      "id": "fingers-crossed",
+      "phrase": "fingers crossed",
+      "spoken": "fingers crossed",
+      "variants": [
+        "\\b(?:fingers?\\s+crossed|cross\\w*\\s+(?:my|your|our)\\s+fingers)\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "hoping for good luck",
+      "whenToUse": "When you hope something good will happen.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "People sometimes really cross two fingers for luck.",
+      "fallbackExamples": [
+        "My exam is tomorrow. Fingers crossed!",
+        "I'm keeping my fingers crossed for your interview.",
+        "Fingers crossed that it's sunny on Saturday."
+      ]
+    },
+    {
+      "id": "out-of-this-world",
+      "phrase": "out of this world",
+      "spoken": "out of this world",
+      "variants": [
+        "\\bout\\s+of\\s+this\\s+world\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "extremely good",
+      "whenToUse": "When food, music or a show is amazing.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about space; it means \"amazing\".",
+      "fallbackExamples": [
+        "This burrito is out of this world!",
+        "Her singing was out of this world.",
+        "The view from Twin Peaks is out of this world."
+      ]
+    },
+    {
+      "id": "my-cup-of-tea",
+      "phrase": "not my cup of tea",
+      "spoken": "not my cup of tea",
+      "variants": [
+        "\\b(?:my|your|his|her|our|their)\\s+cup\\s+of\\s+tea\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "something you like (often used with \"not\")",
+      "whenToUse": "When you say politely that you do not like something.",
+      "register": "informal, polite",
+      "region": "US and UK",
+      "literalNote": "It is not about real tea; it means \"my style\".",
+      "fallbackExamples": [
+        "Horror movies are not my cup of tea.",
+        "Is jazz your cup of tea?",
+        "Running is not really his cup of tea."
+      ]
+    },
+    {
+      "id": "from-scratch",
+      "phrase": "from scratch",
+      "spoken": "from scratch",
+      "variants": [
+        "\\bfrom\\s+scratch\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "from the very beginning, with nothing made before",
+      "whenToUse": "When you cook or build something starting from zero.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about scratching; it means starting from zero.",
+      "fallbackExamples": [
+        "She makes bread from scratch every Sunday.",
+        "I lost my file, so I started from scratch.",
+        "We built the website from scratch."
+      ]
+    },
+    {
+      "id": "head-over-heels",
+      "phrase": "head over heels",
+      "spoken": "head over heels in love",
+      "variants": [
+        "\\bhead\\s+over\\s+heels\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "completely in love",
+      "whenToUse": "When someone is very much in love.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody falls upside down; it means deeply in love.",
+      "fallbackExamples": [
+        "He is head over heels for his new girlfriend.",
+        "They fell head over heels in love in Paris.",
+        "She is head over heels about her baby."
+      ]
+    },
+    {
+      "id": "run-late",
+      "phrase": "running late",
+      "spoken": "I'm running late",
+      "variants": [
+        "\\b(?:run|runs|ran|running)\\s+(?:a\\s+(?:little|bit)\\s+)?late\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "to be late, behind schedule",
+      "whenToUse": "When you text someone that you will arrive later.",
+      "register": "neutral, very common",
+      "region": "US and UK",
+      "literalNote": "You do not need to run; it means you are late.",
+      "fallbackExamples": [
+        "Sorry, I'm running late. See you at ten.",
+        "The train is running late again.",
+        "We ran late because of the traffic."
+      ]
+    },
+    {
+      "id": "a-big-fish-in-a-small-pond",
+      "phrase": "a big fish in a small pond",
+      "spoken": "a big fish in a small pond",
+      "variants": [
+        "\\ba\\s+big\\s+fish\\s+in\\s+a\\s+small\\s+pond\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "an important person in a small group",
+      "whenToUse": "When someone is important only in a small place.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about real fish; it means important in a small place.",
+      "fallbackExamples": [
+        "In my town I was a big fish in a small pond.",
+        "He likes being a big fish in a small pond.",
+        "At the small company, she is a big fish in a small pond."
+      ]
+    },
+    {
+      "id": "cut-to-the-chase",
+      "phrase": "cut to the chase",
+      "spoken": "cut to the chase",
+      "variants": [
+        "\\bcut(?:s|ting)?\\s+to\\s+the\\s+chase\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "to get to the important point quickly",
+      "whenToUse": "When you want someone to stop talking about small details.",
+      "register": "informal, OK at work",
+      "region": "mostly US",
+      "literalNote": "Nobody is chasing; it means \"get to the point\".",
+      "fallbackExamples": [
+        "Let's cut to the chase: how much does it cost?",
+        "My manager always cuts to the chase.",
+        "I'll cut to the chase – we need more help."
+      ]
+    },
+    {
+      "id": "the-elephant-in-the-room",
+      "phrase": "the elephant in the room",
+      "spoken": "the elephant in the room",
+      "variants": [
+        "\\bthe\\s+elephant\\s+in\\s+the\\s+room\\b"
+      ],
+      "level": "A2",
+      "difficulty": 2,
+      "meaning": "a big problem that everyone avoids talking about",
+      "whenToUse": "When people ignore an obvious problem.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "There is no real elephant; it is a problem nobody mentions.",
+      "fallbackExamples": [
+        "Money was the elephant in the room at dinner.",
+        "Let's talk about the elephant in the room.",
+        "His new job was the elephant in the room."
+      ]
+    },
+    {
+      "id": "over-the-moon",
+      "phrase": "over the moon",
+      "spoken": "over the moon",
+      "variants": [
+        "\\bover\\s+the\\s+moon\\b"
+      ],
+      "level": "A2",
+      "difficulty": 1,
+      "meaning": "extremely happy",
+      "whenToUse": "When you get great news.",
+      "register": "informal",
+      "region": "mostly UK, also US",
+      "literalNote": "Nobody jumps over the moon; it means very happy.",
+      "fallbackExamples": [
+        "She was over the moon about her new apartment.",
+        "I'm over the moon – I got the job!",
+        "My parents were over the moon about the baby."
+      ]
+    },
+    {
+      "id": "beat-around-the-bush",
+      "phrase": "beat around the bush",
+      "spoken": "beat around the bush",
+      "variants": [
+        "\\b(?:beat|beats|beaten|beating)\\s+around\\s+the\\s+bush\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to avoid saying something directly",
+      "whenToUse": "When someone talks a lot but does not say the main point.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "Nobody hits a plant; it means not being direct.",
+      "fallbackExamples": [
+        "Stop beating around the bush and tell me.",
+        "He beat around the bush about the money.",
+        "Please don't beat around the bush with me."
+      ]
+    },
+    {
+      "id": "hit-the-nail-on-the-head",
+      "phrase": "hit the nail on the head",
+      "spoken": "hit the nail on the head",
+      "variants": [
+        "\\bh(?:it|its|itting)\\s+the\\s+nail\\s+on\\s+the\\s+head\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to say exactly the right thing",
+      "whenToUse": "When someone describes a problem perfectly.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no hammer; it means \"exactly right\".",
+      "fallbackExamples": [
+        "You hit the nail on the head with that answer.",
+        "Her comment hit the nail on the head.",
+        "I think you hit the nail on the head."
+      ]
+    },
+    {
+      "id": "once-in-a-lifetime",
+      "phrase": "once in a lifetime",
+      "spoken": "once in a lifetime",
+      "variants": [
+        "\\bonce[\\s-]in[\\s-]a[\\s-]lifetime\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "very special; it may happen only one time",
+      "whenToUse": "When you talk about a rare and special chance.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is a real time phrase, used for very rare chances.",
+      "fallbackExamples": [
+        "Seeing the northern lights was once in a lifetime.",
+        "This trip is a once-in-a-lifetime chance.",
+        "Meeting the singer was once in a lifetime."
+      ]
+    },
+    {
+      "id": "the-tip-of-the-iceberg",
+      "phrase": "the tip of the iceberg",
+      "spoken": "the tip of the iceberg",
+      "variants": [
+        "\\bthe\\s+tip\\s+of\\s+the\\s+iceberg\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a small part of a much bigger problem",
+      "whenToUse": "When you see only a little of a big problem.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is not about real ice; most of the problem is hidden.",
+      "fallbackExamples": [
+        "The broken window is just the tip of the iceberg.",
+        "These complaints are the tip of the iceberg.",
+        "The late bills were only the tip of the iceberg."
+      ]
+    },
+    {
+      "id": "throw-in-the-towel",
+      "phrase": "throw in the towel",
+      "spoken": "throw in the towel",
+      "variants": [
+        "\\bthr(?:ow|ows|ew|own|owing)\\s+in\\s+the\\s+towel\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to stop trying; to give up",
+      "whenToUse": "When someone decides they cannot continue.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody throws a real towel; it means giving up.",
+      "fallbackExamples": [
+        "Don't throw in the towel – you are so close!",
+        "After three hours, I threw in the towel.",
+        "She almost threw in the towel on her diet."
+      ]
+    },
+    {
+      "id": "burn-the-midnight-oil",
+      "phrase": "burn the midnight oil",
+      "spoken": "burn the midnight oil",
+      "variants": [
+        "\\bburn(?:s|ed|t|ing)?\\s+the\\s+midnight\\s+oil\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to work or study late at night",
+      "whenToUse": "When you stay up late to finish work.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "No oil lamp is needed; it means working late.",
+      "fallbackExamples": [
+        "I burned the midnight oil to finish my essay.",
+        "Nurses often burn the midnight oil.",
+        "We're burning the midnight oil before the deadline."
+      ]
+    },
+    {
+      "id": "a-taste-of-your-own-medicine",
+      "phrase": "a taste of your own medicine",
+      "spoken": "a taste of his own medicine",
+      "variants": [
+        "\\ba\\s+taste\\s+of\\s+(?:my|your|his|her|our|their)\\s+own\\s+medicine\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "the same bad treatment you gave others",
+      "whenToUse": "When someone who is rude gets the same treatment.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about real medicine; it means the same bad treatment.",
+      "fallbackExamples": [
+        "He was always late, so we gave him a taste of his own medicine.",
+        "Now she knows how it feels – a taste of her own medicine.",
+        "Ignoring him gave him a taste of his own medicine."
+      ]
+    },
+    {
+      "id": "get-something-off-your-chest",
+      "phrase": "get it off your chest",
+      "spoken": "get it off my chest",
+      "variants": [
+        "\\b(?:get|gets|got|gotten|getting)\\s+(?:\\w+\\s+){1,3}off\\s+(?:my|your|his|her|our|their)\\s+chest\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to talk about something that worried you",
+      "whenToUse": "When you finally tell someone a feeling you kept inside.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nothing is on your real chest; you feel lighter after talking.",
+      "fallbackExamples": [
+        "I need to get this off my chest: I broke your cup.",
+        "She got it off her chest and felt better.",
+        "Talk to me if you need to get something off your chest."
+      ]
+    },
+    {
+      "id": "the-ball-rolling",
+      "phrase": "get the ball rolling",
+      "spoken": "get the ball rolling",
+      "variants": [
+        "\\b(?:get|gets|got|getting|start|starts|started|starting)\\s+the\\s+ball\\s+rolling\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to start something",
+      "whenToUse": "When you begin a project, a meeting or a plan.",
+      "register": "informal, common at work",
+      "region": "US and UK",
+      "literalNote": "There is no ball; it means to begin.",
+      "fallbackExamples": [
+        "Let's get the ball rolling on the party plans.",
+        "I'll start the ball rolling with a question.",
+        "She got the ball rolling on our new project."
+      ]
+    },
+    {
+      "id": "bite-the-bullet",
+      "phrase": "bite the bullet",
+      "spoken": "bite the bullet",
+      "variants": [
+        "\\b(?:bite|bites|bit|bitten|biting)\\s+the\\s+bullet\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to do something hard that you have avoided",
+      "whenToUse": "When you finally do a difficult or unpleasant task.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody bites a real bullet; it means being brave.",
+      "fallbackExamples": [
+        "I bit the bullet and called the bank.",
+        "It's time to bite the bullet and see a dentist.",
+        "She bit the bullet and asked for a raise."
+      ]
+    },
+    {
+      "id": "add-insult-to-injury",
+      "phrase": "add insult to injury",
+      "spoken": "add insult to injury",
+      "variants": [
+        "\\badd(?:s|ed|ing)?\\s+insult\\s+to\\s+injury\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to make a bad situation even worse",
+      "whenToUse": "When one more bad thing happens after a bad thing.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "It is often used to joke about bad luck.",
+      "fallbackExamples": [
+        "I missed the bus, and to add insult to injury, it rained.",
+        "They lost the game, and then the car broke – adding insult to injury.",
+        "To add insult to injury, the store was closed."
+      ]
+    },
+    {
+      "id": "the-whole-nine-yards",
+      "phrase": "the whole nine yards",
+      "spoken": "the whole nine yards",
+      "variants": [
+        "\\bthe\\s+whole\\s+nine\\s+yards\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "everything; all of it",
+      "whenToUse": "When you do or get something completely.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "Nobody measures nine yards; it means \"everything\".",
+      "fallbackExamples": [
+        "We had cake, music, balloons – the whole nine yards.",
+        "He bought a tent, a stove, the whole nine yards.",
+        "For her birthday, they did the whole nine yards."
+      ]
+    },
+    {
+      "id": "miss-the-boat",
+      "phrase": "miss the boat",
+      "spoken": "miss the boat",
+      "variants": [
+        "\\bmiss(?:es|ed|ing)?\\s+the\\s+boat\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to lose a chance by being too slow",
+      "whenToUse": "When you are too late for an opportunity.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about a real boat; you lost a chance.",
+      "fallbackExamples": [
+        "The tickets are sold out. We missed the boat.",
+        "Apply now, or you'll miss the boat.",
+        "He missed the boat on that cheap apartment."
+      ]
+    },
+    {
+      "id": "on-thin-ice",
+      "phrase": "on thin ice",
+      "spoken": "on thin ice",
+      "variants": [
+        "\\bon\\s+thin\\s+ice\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "in a risky situation; close to trouble",
+      "whenToUse": "When someone may get in trouble if they make one more mistake.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no real ice; it means close to trouble.",
+      "fallbackExamples": [
+        "You're on thin ice after being late three times.",
+        "He is on thin ice with his landlord.",
+        "I was on thin ice with my teacher."
+      ]
+    },
+    {
+      "id": "under-the-table",
+      "phrase": "under the table",
+      "spoken": "under the table",
+      "variants": [
+        "\\bunder\\s+the\\s+table\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "secretly, often illegally (usually about money)",
+      "whenToUse": "When someone is paid in cash in a secret way.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about furniture; it means secret, not official.",
+      "fallbackExamples": [
+        "He was paid under the table.",
+        "Some workers get cash under the table.",
+        "They sold the tickets under the table."
+      ]
+    },
+    {
+      "id": "a-slap-on-the-wrist",
+      "phrase": "a slap on the wrist",
+      "spoken": "a slap on the wrist",
+      "variants": [
+        "\\ba\\s+slap\\s+on\\s+the\\s+wrist\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a very small punishment",
+      "whenToUse": "When the punishment is too light for what happened.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "Nobody is really slapped; it means a small punishment.",
+      "fallbackExamples": [
+        "He got a slap on the wrist for speeding.",
+        "The company only got a slap on the wrist.",
+        "Being late got me a slap on the wrist."
+      ]
+    },
+    {
+      "id": "keep-your-chin-up",
+      "phrase": "keep your chin up",
+      "spoken": "keep your chin up",
+      "variants": [
+        "\\bk(?:eep|eeps|ept|eeping)\\s+(?:my|your|his|her|our|their)\\s+chin\\s+up\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "stay positive in a hard time",
+      "whenToUse": "When you want to encourage someone who is sad.",
+      "register": "informal, kind",
+      "region": "US and UK",
+      "literalNote": "You do not need to lift your chin; it means stay positive.",
+      "fallbackExamples": [
+        "Keep your chin up – tomorrow is a new day.",
+        "She kept her chin up after losing her job.",
+        "Keep your chin up, you're learning fast."
+      ]
+    },
+    {
+      "id": "learn-the-ropes",
+      "phrase": "learn the ropes",
+      "spoken": "learn the ropes",
+      "variants": [
+        "\\b(?:learn|learns|learned|learnt|learning|know|knows|knew|show|shows|showed|showing)\\s+(?:\\w+\\s+)?the\\s+ropes\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to learn the basic things in a new job or place",
+      "whenToUse": "When you are new and learning how things work.",
+      "register": "informal, common at work",
+      "region": "US and UK",
+      "literalNote": "There are no ropes; it means learning the basics.",
+      "fallbackExamples": [
+        "I'm still learning the ropes at my new job.",
+        "My coworker showed me the ropes.",
+        "She learned the ropes in two weeks."
+      ]
+    },
+    {
+      "id": "a-rule-of-thumb",
+      "phrase": "a rule of thumb",
+      "spoken": "a rule of thumb",
+      "variants": [
+        "\\brules?\\s+of\\s+thumb\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a simple, practical way to do something",
+      "whenToUse": "When you give an easy general rule, not an exact one.",
+      "register": "neutral, OK at work",
+      "region": "US and UK",
+      "literalNote": "It is not about your thumb; it means a simple rule.",
+      "fallbackExamples": [
+        "As a rule of thumb, drink eight glasses of water a day.",
+        "A good rule of thumb is to arrive early.",
+        "As a rule of thumb, I save ten percent."
+      ]
+    },
+    {
+      "id": "back-to-square-one",
+      "phrase": "back to square one",
+      "spoken": "back to square one",
+      "variants": [
+        "\\bback\\s+to\\s+square\\s+one\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "back to the start after a failure",
+      "whenToUse": "When a plan fails and you must start again.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no game square; it means starting again.",
+      "fallbackExamples": [
+        "The plan didn't work, so we're back to square one.",
+        "My computer crashed – back to square one!",
+        "After the rejection, she was back to square one."
+      ]
+    },
+    {
+      "id": "go-with-the-flow",
+      "phrase": "go with the flow",
+      "spoken": "go with the flow",
+      "variants": [
+        "\\b(?:go|goes|went|gone|going)\\s+with\\s+the\\s+flow\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to relax and accept what happens",
+      "whenToUse": "When you don't make plans and just accept things.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no water; it means relax and accept.",
+      "fallbackExamples": [
+        "On vacation, I just go with the flow.",
+        "She doesn't plan much; she goes with the flow.",
+        "Let's go with the flow tonight."
+      ]
+    },
+    {
+      "id": "a-penny-for-your-thoughts",
+      "phrase": "a penny for your thoughts",
+      "spoken": "a penny for your thoughts",
+      "variants": [
+        "\\ba\\s+penny\\s+for\\s+(?:your|my|his|her|their)\\s+thoughts\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a friendly way to ask what someone is thinking",
+      "whenToUse": "When someone is quiet and you want to know what they think.",
+      "register": "informal, a bit old-fashioned",
+      "region": "US and UK",
+      "literalNote": "You don't really pay; it is a kind question.",
+      "fallbackExamples": [
+        "You look quiet. A penny for your thoughts?",
+        "\"A penny for your thoughts,\" she said with a smile.",
+        "A penny for your thoughts – are you okay?"
+      ]
+    },
+    {
+      "id": "jump-on-the-bandwagon",
+      "phrase": "jump on the bandwagon",
+      "spoken": "jump on the bandwagon",
+      "variants": [
+        "\\b(?:jump|jumps|jumped|jumping|get|gets|got|getting)\\s+on\\s+the\\s+bandwagon\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to do something because it is popular",
+      "whenToUse": "When people follow a new trend.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no wagon; it means following the trend.",
+      "fallbackExamples": [
+        "Everyone jumped on the bandwagon and bought air fryers.",
+        "I don't want to jump on the bandwagon.",
+        "My mom jumped on the bandwagon and joined TikTok."
+      ]
+    },
+    {
+      "id": "read-between-the-lines",
+      "phrase": "read between the lines",
+      "spoken": "read between the lines",
+      "variants": [
+        "\\bread(?:s|ing)?\\s+between\\s+the\\s+lines\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to understand the hidden meaning",
+      "whenToUse": "When someone does not say something directly, but you understand.",
+      "register": "neutral",
+      "region": "US and UK",
+      "literalNote": "You don't read empty space; you understand hidden meaning.",
+      "fallbackExamples": [
+        "If you read between the lines, he is unhappy.",
+        "I read between the lines of her message.",
+        "Learn to read between the lines at work."
+      ]
+    },
+    {
+      "id": "cry-over-spilled-milk",
+      "phrase": "cry over spilled milk",
+      "spoken": "don't cry over spilled milk",
+      "variants": [
+        "\\bcr(?:y|ies|ied|ying)\\s+over\\s+spil(?:led|t)\\s+milk\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to be sad about something that can't be changed",
+      "whenToUse": "When a small mistake already happened and worrying won't help.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There may be no milk; it means don't worry about the past.",
+      "fallbackExamples": [
+        "It's broken now. No use crying over spilled milk.",
+        "Don't cry over spilled milk – just try again.",
+        "She lost the game but didn't cry over spilled milk."
+      ]
+    },
+    {
+      "id": "the-icing-on-the-cake",
+      "phrase": "the icing on the cake",
+      "spoken": "the icing on the cake",
+      "variants": [
+        "\\bthe\\s+icing\\s+on\\s+the\\s+cake\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "something extra that makes a good thing even better",
+      "whenToUse": "When a good day gets one more nice surprise.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about real cake; it means \"an extra good thing\".",
+      "fallbackExamples": [
+        "The free dessert was the icing on the cake.",
+        "Good weather was the icing on the cake.",
+        "Meeting the chef was the icing on the cake."
+      ]
+    },
+    {
+      "id": "let-off-steam",
+      "phrase": "let off steam",
+      "spoken": "let off steam",
+      "variants": [
+        "\\blet(?:s|ting)?\\s+off\\s+steam\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to relax after stress by doing something active",
+      "whenToUse": "When you exercise or shout to feel less stressed.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You are not a train; it means relaxing after stress.",
+      "fallbackExamples": [
+        "I go running to let off steam after work.",
+        "The kids let off steam at the park.",
+        "Dancing helps me let off steam."
+      ]
+    },
+    {
+      "id": "play-it-by-ear",
+      "phrase": "play it by ear",
+      "spoken": "play it by ear",
+      "variants": [
+        "\\bplay(?:s|ed|ing)?\\s+it\\s+by\\s+ear\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to decide as things happen, without a plan",
+      "whenToUse": "When plans are not fixed and you will decide later.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "No music is needed; it means deciding later.",
+      "fallbackExamples": [
+        "Let's play it by ear and see the weather.",
+        "We didn't book a hotel; we played it by ear.",
+        "I'm not sure about Saturday. Let's play it by ear."
+      ]
+    },
+    {
+      "id": "take-a-rain-check",
+      "phrase": "take a rain check",
+      "spoken": "take a rain check",
+      "variants": [
+        "\\bt(?:ake|akes|ook|aken|aking)\\s+a\\s+rain\\s+check\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to say no now but yes another time",
+      "whenToUse": "When you can't accept an invitation today but want to later.",
+      "register": "informal, polite",
+      "region": "mostly US",
+      "literalNote": "There is no rain; it means \"maybe another time\".",
+      "fallbackExamples": [
+        "Can I take a rain check on dinner tonight?",
+        "She took a rain check on the movie.",
+        "I'm tired. Can I take a rain check?"
+      ]
+    },
+    {
+      "id": "in-the-nick-of-time",
+      "phrase": "in the nick of time",
+      "spoken": "in the nick of time",
+      "variants": [
+        "\\bin\\s+the\\s+nick\\s+of\\s+time\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "just in time; at the last moment",
+      "whenToUse": "When you arrive or finish just before it is too late.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "\"Nick\" is not a person; it means the last moment.",
+      "fallbackExamples": [
+        "We caught the train in the nick of time.",
+        "The doctor arrived in the nick of time.",
+        "I finished my homework in the nick of time."
+      ]
+    },
+    {
+      "id": "a-drop-in-the-bucket",
+      "phrase": "a drop in the bucket",
+      "spoken": "a drop in the bucket",
+      "variants": [
+        "\\ba\\s+drop\\s+in\\s+the\\s+bucket\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a very small amount compared to what is needed",
+      "whenToUse": "When something helps only a tiny bit.",
+      "register": "informal",
+      "region": "mostly US",
+      "literalNote": "It is not about real water; it means \"very small\".",
+      "fallbackExamples": [
+        "Ten dollars is a drop in the bucket for rent.",
+        "Our donation is a drop in the bucket, but it helps.",
+        "One tree is a drop in the bucket."
+      ]
+    },
+    {
+      "id": "get-your-act-together",
+      "phrase": "get your act together",
+      "spoken": "get my act together",
+      "variants": [
+        "\\b(?:get|gets|got|gotten|getting)\\s+(?:my|your|his|her|our|their)\\s+act\\s+together\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to become organized and do things well",
+      "whenToUse": "When someone needs to stop being messy or lazy.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about acting; it means getting organized.",
+      "fallbackExamples": [
+        "I need to get my act together before the exam.",
+        "He finally got his act together and found a job.",
+        "Get your act together – the guests arrive at six."
+      ]
+    },
+    {
+      "id": "over-the-hill",
+      "phrase": "over the hill",
+      "spoken": "over the hill",
+      "variants": [
+        "\\bover\\s+the\\s+hill\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "too old to do something (said as a joke)",
+      "whenToUse": "When people joke about getting older, like on a birthday.",
+      "register": "informal, joking",
+      "region": "US and UK",
+      "literalNote": "No real hill; it is a joke about age.",
+      "fallbackExamples": [
+        "My brother turned 40 and says he's over the hill.",
+        "You're not over the hill – you're 35!",
+        "He joked that he was over the hill at the gym."
+      ]
+    },
+    {
+      "id": "up-to-my-ears",
+      "phrase": "up to my ears",
+      "spoken": "up to my ears in work",
+      "variants": [
+        "\\bup\\s+to\\s+(?:my|your|his|her|our|their)\\s+ears\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "very busy with too much of something",
+      "whenToUse": "When you have too much work, bills or tasks.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You are not underwater; it means \"too much\".",
+      "fallbackExamples": [
+        "I'm up to my ears in homework this week.",
+        "She is up to her ears in wedding plans.",
+        "We're up to our ears in boxes after moving."
+      ]
+    },
+    {
+      "id": "face-the-music",
+      "phrase": "face the music",
+      "spoken": "face the music",
+      "variants": [
+        "\\bfac(?:e|es|ed|ing)\\s+the\\s+music\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to accept the bad results of your actions",
+      "whenToUse": "When someone must deal with trouble they caused.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "There is no music; it means accepting the consequences.",
+      "fallbackExamples": [
+        "He broke the window, so now he must face the music.",
+        "I forgot to pay; time to face the music.",
+        "She faced the music and told her boss the truth."
+      ]
+    },
+    {
+      "id": "a-hot-potato",
+      "phrase": "a hot potato",
+      "spoken": "a hot potato",
+      "variants": [
+        "\\bhot\\s+potato(?:es)?\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a topic that is difficult and people avoid",
+      "whenToUse": "When a subject causes arguments, like politics or money.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "It is not about food; it means a difficult topic.",
+      "fallbackExamples": [
+        "Rent control is a hot potato in the city.",
+        "Nobody wanted to talk about the hot potato.",
+        "The new rule became a hot potato at work."
+      ]
+    },
+    {
+      "id": "keep-your-head-above-water",
+      "phrase": "keep your head above water",
+      "spoken": "keep my head above water",
+      "variants": [
+        "\\bk(?:eep|eeps|ept|eeping)\\s+(?:my|your|his|her|its|our|their)\\s+heads?\\s+above\\s+water\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to just manage, usually with money or work",
+      "whenToUse": "When you have just enough to survive a hard time.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "You are not swimming; it means just surviving.",
+      "fallbackExamples": [
+        "With two jobs, I keep my head above water.",
+        "The small shop is keeping its head above water.",
+        "She kept her head above water during the busy season."
+      ]
+    },
+    {
+      "id": "a-couch-potato",
+      "phrase": "a couch potato",
+      "spoken": "a couch potato",
+      "variants": [
+        "\\b(?:a\\s+)?couch\\s+potato(?:es)?\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "a person who watches a lot of TV and doesn't move much",
+      "whenToUse": "When you joke about someone who is lazy at home.",
+      "register": "informal, joking",
+      "region": "mostly US",
+      "literalNote": "It is not about food; it means a lazy TV watcher.",
+      "fallbackExamples": [
+        "On Sundays, I'm a total couch potato.",
+        "My cat is a couch potato.",
+        "Don't be a couch potato – let's go for a walk."
+      ]
+    },
+    {
+      "id": "call-the-shots",
+      "phrase": "call the shots",
+      "spoken": "call the shots",
+      "variants": [
+        "\\bcall(?:s|ed|ing)?\\s+the\\s+shots\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "to be the person who makes decisions",
+      "whenToUse": "When someone is the boss or in control.",
+      "register": "informal, common at work",
+      "region": "US and UK",
+      "literalNote": "Nobody shoots; it means making decisions.",
+      "fallbackExamples": [
+        "At home, my wife calls the shots.",
+        "Who calls the shots in this office?",
+        "She calls the shots on the project."
+      ]
+    },
+    {
+      "id": "it-takes-two-to-tango",
+      "phrase": "it takes two to tango",
+      "spoken": "it takes two to tango",
+      "variants": [
+        "\\b(?:it\\s+)?t(?:akes|ook)\\s+two\\s+to\\s+tango\\b"
+      ],
+      "level": "B1",
+      "difficulty": 2,
+      "meaning": "both people are responsible in a problem",
+      "whenToUse": "When an argument or problem is caused by two people.",
+      "register": "informal",
+      "region": "US and UK",
+      "literalNote": "No dancing is needed; it means both are responsible.",
+      "fallbackExamples": [
+        "Don't blame only him – it takes two to tango.",
+        "It takes two to tango in any argument.",
+        "They both made mistakes; it takes two to tango."
+      ]
+    }
+  ]
+}

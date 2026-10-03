@@ -1,0 +1,36 @@
+{
+  "llm": {
+    "baseUrl": "http://127.0.0.1:11434",
+    "model": "gemma4:e2b",
+    "temperature": 0.2,
+    "timeoutMs": 20000,
+    "keepAlive": -1
+  },
+  "stt": {
+    "baseUrl": "http://127.0.0.1:8765",
+    "model": "small.en",
+    "minSpeechSeconds": 0.5
+  },
+  "scoring": {
+    "accuracyWeight": 0.7,
+    "clarityWeight": 0.3,
+    "lowConfidenceThreshold": 0.6,
+    "maxTips": 3
+  },
+  "session": {
+    "noRepeatDays": 60,
+    "exampleMaxWords": 15
+  },
+  "tutor": {
+    "personality": "warm, patient, playful big-sister tutor who celebrates small wins"
+  },
+  "voice": {
+    "external": {
+      "provider": "elevenlabs",
+      "voiceId": "21m00Tcm4TlvDq8ikWAM",
+      "modelId": "eleven_flash_v2_5"
+    },
+    "localFallback": { "lang": "en-US", "preferredName": "Samantha" },
+    "privacyNote": "When the natural voice is on, only the sentence to be spoken is sent to ElevenLabs. Your recordings and answers never leave this laptop."
+  }
+}

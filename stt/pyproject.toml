@@ -1,0 +1,22 @@
+[project]
+name = "idioms-stt"
+version = "0.1.0"
+description = "Local speech-to-text sidecar (faster-whisper) for IdiomsMasterGirl"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+  "faster-whisper~=1.2",
+  "av<17", # PyAV 19 breaks faster_whisper.decode_audio (metadata_errors kwarg)
+  "fastapi",
+  "uvicorn",
+  "python-multipart",
+]
+
+[dependency-groups]
+dev = ["pytest", "httpx"]
+
+[tool.uv]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
