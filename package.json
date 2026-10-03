@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "description": "IdiomsMasterGirl – a daily, local-first English idiom practice partner for Eugenia",
+  "license": "MIT",
   "engines": {
     "node": ">=26"
   },

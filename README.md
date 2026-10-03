@@ -158,5 +158,15 @@ stt/            the local speech helper (Python, FastAPI + faster-whisper)
 specs/          Spec Kit spec, plan, research, contracts and tasks
 ```
 
+## License
+
+[MIT](LICENSE) © 2026 Gustavo Sanchez Galarza. You are welcome to fork it and build one for
+someone you care about.
+
+The MIT license covers this repository: the code, prompts and curated idiom list. The models
+and services the app uses keep their own terms: Gemma 4 (Apache 2.0), Whisper (MIT), Ollama
+(MIT), faster-whisper (MIT), and the ElevenLabs API (ElevenLabs' terms of service, only if
+you turn it on).
+
 Built with [Spec Kit](https://github.com/github/spec-kit) for Hacktoberfest 2026, Week 1:
 *Build for a Friend*.
